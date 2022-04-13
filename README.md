@@ -1,2 +1,3 @@
 # CS62Lab8
-for lab class cs62.
+Austin Zang and Ethan Lee
+Lab 2
